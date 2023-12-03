@@ -1,0 +1,374 @@
+{
+    "sourceFile": ".vscode/settings.json",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 89,
+            "patches": [
+                {
+                    "date": 1701576217525,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1701576222901,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701576229585,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701576236334,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701578647036,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701578905310,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701578923240,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701578929240,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701579048357,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701579071880,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701579087715,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701579127049,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701579135812,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701579160378,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701579167053,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701579372944,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701579381581,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701579426817,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701579432427,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701579858754,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701579941298,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701579946477,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701579951599,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701579962235,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701579968751,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701579990004,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701579997785,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580046527,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580117694,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580145286,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580150596,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580192687,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580276625,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580288884,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580297336,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580319135,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580331280,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580379951,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580398295,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580403812,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580414389,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580561371,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580568207,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580573447,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580762434,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580768789,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580780362,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580870098,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580912173,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,16 @@\n+{\n+    \"workbench.colorCustomizations\": {\n+        \"[Default Dark Modern]\": {\n+            \"tab.activeBorderTop\": \"#00FF00\",\n+            \"tab.unfocusedActiveBorderTop\": \"#00FF0088\",\n+            \"textCodeBlock.background\": \"#00000055\"\n+        },\n+        \"editor.wordHighlightStrongBorder\": \"#FF6347\",\n+        \"editor.wordHighlightBorder\": \"#FFD700\",\n+        \"editor.selectionHighlightBorder\": \"#A9A9A9\",\n+        \"activityBar.background\": \"#61011B\",\n+        \"titleBar.activeBackground\": \"#880126\",\n+        \"titleBar.activeForeground\": \"#FFFBFC\"\n+    },\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n+}\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580932048,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,22 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n-}\n-{\n-    \"workbench.colorCustomizations\": {\n-        \"[Default Dark Modern]\": {\n-            \"tab.activeBorderTop\": \"#00FF00\",\n-            \"tab.unfocusedActiveBorderTop\": \"#00FF0088\",\n-            \"textCodeBlock.background\": \"#00000055\"\n-        },\n-        \"editor.wordHighlightStrongBorder\": \"#FF6347\",\n-        \"editor.wordHighlightBorder\": \"#FFD700\",\n-        \"editor.selectionHighlightBorder\": \"#A9A9A9\",\n-        \"activityBar.background\": \"#61011B\",\n-        \"titleBar.activeBackground\": \"#880126\",\n-        \"titleBar.activeForeground\": \"#FFFBFC\"\n-    },\n     \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701580971049,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581049383,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581066160,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581071424,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581085247,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581101887,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581107697,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581112813,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581172321,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581178320,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581185488,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581241934,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581333523,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581338874,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581345697,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581351293,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581364217,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581369562,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581376051,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581382306,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581391020,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581396370,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581406417,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581412192,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581424309,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581441634,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581461856,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581490767,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581544465,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581551305,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581559090,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581604845,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581627658,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,16 @@\n+{\n+    \"workbench.colorCustomizations\": {\n+        \"[Default Dark Modern]\": {\n+            \"tab.activeBorderTop\": \"#00FF00\",\n+            \"tab.unfocusedActiveBorderTop\": \"#00FF0088\",\n+            \"textCodeBlock.background\": \"#00000055\"\n+        },\n+        \"editor.wordHighlightStrongBorder\": \"#FF6347\",\n+        \"editor.wordHighlightBorder\": \"#FFD700\",\n+        \"editor.selectionHighlightBorder\": \"#A9A9A9\",\n+        \"activityBar.background\": \"#61011B\",\n+        \"titleBar.activeBackground\": \"#880126\",\n+        \"titleBar.activeForeground\": \"#FFFBFC\"\n+    },\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n+}\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581632905,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,22 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n-}\n-{\n-    \"workbench.colorCustomizations\": {\n-        \"[Default Dark Modern]\": {\n-            \"tab.activeBorderTop\": \"#00FF00\",\n-            \"tab.unfocusedActiveBorderTop\": \"#00FF0088\",\n-            \"textCodeBlock.background\": \"#00000055\"\n-        },\n-        \"editor.wordHighlightStrongBorder\": \"#FF6347\",\n-        \"editor.wordHighlightBorder\": \"#FFD700\",\n-        \"editor.selectionHighlightBorder\": \"#A9A9A9\",\n-        \"activityBar.background\": \"#61011B\",\n-        \"titleBar.activeBackground\": \"#880126\",\n-        \"titleBar.activeForeground\": \"#FFFBFC\"\n-    },\n     \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581708253,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701581713557,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701590207302,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701590213261,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701590219337,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n+    \"editor.inlineSuggest.showToolbar\": \"always\"\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701590224772,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n         \"activityBar.background\": \"#61011B\",\n         \"titleBar.activeBackground\": \"#880126\",\n         \"titleBar.activeForeground\": \"#FFFBFC\"\n     },\n-    \"editor.inlineSuggest.showToolbar\": \"always\"\n+    \"editor.inlineSuggest.showToolbar\": \"onHover\"\n }\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1701576217525,
+            "name": "Commit-0",
+            "content": "{\n    \"workbench.colorCustomizations\": {\n        \"[Default Dark Modern]\": {\n            \"tab.activeBorderTop\": \"#00FF00\",\n            \"tab.unfocusedActiveBorderTop\": \"#00FF0088\",\n            \"textCodeBlock.background\": \"#00000055\"\n        },\n        \"editor.wordHighlightStrongBorder\": \"#FF6347\",\n        \"editor.wordHighlightBorder\": \"#FFD700\",\n        \"editor.selectionHighlightBorder\": \"#A9A9A9\",\n        \"activityBar.background\": \"#61011B\",\n        \"titleBar.activeBackground\": \"#880126\",\n        \"titleBar.activeForeground\": \"#FFFBFC\"\n    },\n    \"editor.inlineSuggest.showToolbar\": \"always\"\n}"
+        }
+    ]
+}

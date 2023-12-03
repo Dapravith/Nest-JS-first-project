@@ -1,0 +1,26 @@
+{
+    "sourceFile": "src/app.service.ts",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 2,
+            "patches": [
+                {
+                    "date": 1701576260398,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1701576269157,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,5 +6,5 @@\n     return 'Hello NestJS!';\n   }\n }\n \n-HTTP GET / --> controller --> service\n\\ No newline at end of file\n+// HTTP GET / --> controller --> service\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1701578648584,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,5 +6,5 @@\n     return 'Hello NestJS!';\n   }\n }\n \n-// HTTP GET / --> controller --> service\n\\ No newline at end of file\n+// HTTP GET / --> controller --> service\n"
+                }
+            ],
+            "date": 1701576260398,
+            "name": "Commit-0",
+            "content": "import { Injectable } from '@nestjs/common';\n\n@Injectable()\nexport class AppService {\n  getHello(): string {\n    return 'Hello NestJS!';\n  }\n}\n\nHTTP GET / --> controller --> service"
+        }
+    ]
+}

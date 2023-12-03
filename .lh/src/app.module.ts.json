@@ -1,0 +1,18 @@
+{
+    "sourceFile": "src/app.module.ts",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1701580797192,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1701580797192,
+            "name": "Commit-0",
+            "content": "import { Module } from '@nestjs/common';\nimport { AppController } from './app.controller';\nimport { AppService } from './app.service';\nimport { NesjsModule } from './nestjs/nesjs.module';\nimport { NestjsController } from './nestjs/nestjs.controller';\nimport { NestjsService } from './nestjs/nestjs.service';\nimport { UsersModule } from './users/users.module';\n\n@Module({\n  imports: [NesjsModule, UsersModule],\n  controllers: [AppController, NestjsController],\n  providers: [AppService, NestjsService],\n})\nexport class AppModule {}\n"
+        }
+    ]
+}

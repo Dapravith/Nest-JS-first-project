@@ -1,0 +1,22 @@
+{
+    "sourceFile": "src/users/users.controller.ts",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1701578779586,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1701578810486,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,5 @@\n+// eslint-disable-next-line prettier/prettier\n import { Body, Controller, Delete, Get, Param, Patch, Post } from '@nestjs/common';\n import { CreateUserDto } from './dto/create-user.dto';\n import { UpdateUserDto } from './dto/update-user.dto';\n import { UsersService } from './users.service';\n"
+                }
+            ],
+            "date": 1701578779586,
+            "name": "Commit-0",
+            "content": "import { Body, Controller, Delete, Get, Param, Patch, Post } from '@nestjs/common';\nimport { CreateUserDto } from './dto/create-user.dto';\nimport { UpdateUserDto } from './dto/update-user.dto';\nimport { UsersService } from './users.service';\n\n@Controller('users')\nexport class UsersController {\n  constructor(private readonly usersService: UsersService) {}\n\n  @Post()\n  create(@Body() createUserDto: CreateUserDto) {\n    return this.usersService.create(createUserDto);\n  }\n\n  @Get()\n  findAll() {\n    return this.usersService.findAll();\n  }\n\n  @Get(':id')\n  findOne(@Param('id') id: string) {\n    return this.usersService.findOne(+id);\n  }\n\n  @Patch(':id')\n  update(@Param('id') id: string, @Body() updateUserDto: UpdateUserDto) {\n    return this.usersService.update(+id, updateUserDto);\n  }\n\n  @Delete(':id')\n  remove(@Param('id') id: string) {\n    return this.usersService.remove(+id);\n  }\n}\n"
+        }
+    ]
+}
